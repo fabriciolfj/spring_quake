@@ -7,7 +7,7 @@ Aplicação tem por objetivo apurar as partidas realizadas no game quake arena.
 Sistema e baseado em spring boot, para isso execute o comando abaixo, no diretório raiz da app,  para gerar o arquivo .jar executável.
 
 ```
-mvn clean install
+./gradlew build
 ```
 
 ## Funcionamento
