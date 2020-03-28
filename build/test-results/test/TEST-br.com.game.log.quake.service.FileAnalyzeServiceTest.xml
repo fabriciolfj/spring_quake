@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.game.log.quake.service.FileAnalyzeServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-26T18:32:41" hostname="projeto-Predator-G3-572" time="0.422">
+  <properties/>
+  <testcase name="apurarArquivoInvalido()" classname="br.com.game.log.quake.service.FileAnalyzeServiceTest" time="0.422"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
