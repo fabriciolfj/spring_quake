@@ -14,7 +14,7 @@ Sistema e baseado em spring boot, para isso execute o comando abaixo, no diretó
 
 Para realizar o upload do arquivo e como resultado a apuração, consuma o endpoint abaixo.
 
-![alt text](https://github.com/fabriciojacob211/quake/blob/master/src/main/resources/docs/exemplo_requisicao.png)
+![alt text](https://github.com/fabriciolfj/quake/blob/master/src/main/resources/docs/exemplo_requisicao.png)
 
 ---
 ## Lombok
